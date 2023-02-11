@@ -1,0 +1,3 @@
+First Name,Surname,Age,Monthly Rate,SSS,Pagibig
+Juan,Dela Cruz,27,17000,200,100
+Maria,Makiling,21,17000,200,100
